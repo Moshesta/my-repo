@@ -19,8 +19,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Here you will find information about bussines, computer and personal life.
 baseurl: "/my-repo" # the subpath of your site, e.g. /blog
 url: "https://moshesta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: Moshesta author
+copyright: "Moshesta LLC"
+
 twitter_username: msthsri
 github_username:  Moshesta
+instagram_username: msthsri
+# facebook_username: mostafahesari
+# linkedin_username: mostafahesari
+# youtube_username: mostafahesari
 
 # Build settings
 markdown: kramdown
@@ -28,6 +36,9 @@ markdown: kramdown
 #theme: minima
 plugins:
   - jekyll-feed
+
+#50px hight for the title
+title-logo: /images/logo.png
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
