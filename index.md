@@ -1,3 +1,5 @@
-# Welcome index.md!
+---
 
+layout: home
+---
 [About me](about.md)

@@ -2,6 +2,9 @@
 
 # my-repo
 
-Welcome my repo!
+Welcome to my repo!
+
+This is a gh-page with jekyll minima theme
+
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Moshesta/my-repo)
